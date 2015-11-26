@@ -1,10 +1,7 @@
-# asitwala
-
 # Wanted more of an explanation of the Kasiski Method: 
 
 # Referenced https://en.wikipedia.org/wiki/Kasiski_examination
 # Referenced https://inventwithpython.com/hacking/chapter21.html
-# Discussed part one with Kevin Zen, Amanda Aizuss, and Jonathan Avecedo
 
 # How I employed the Kasiski Method 
 # 1. Found repeating sequences of letters and the distance between them
